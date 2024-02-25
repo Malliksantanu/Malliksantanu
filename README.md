@@ -50,8 +50,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Malliksantanu/Malliksantanu/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Malliksantanu/count.svg?"  />
+</div>
 
 ###
